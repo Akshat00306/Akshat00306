@@ -1,11 +1,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Namaste, I'm Akshat! 👨‍💻
 
-<img src="assets/Developer.gif" width="300" alt="Developer GIF"/>
-
-💻 Full Stack Developer | 🐍 Python Enthusiast | 🤖 Aspiring AI Engineer | MERN Stack  
-🔗 Always learning, always building | 💬 Let's collaborate
-
----
+<img src="assets/Developer.gif" width="300" alt="Developer GIF"/>---
 
 <table>
   <tr>
@@ -16,6 +11,8 @@
 </table>
 
 ---
+💻 Full Stack Developer | 🐍 Python Enthusiast | 🤖 Aspiring AI Engineer | MERN Stack  
+🔗 Always learning, always building | 💬 Let's collaborate
 
 ## 🧠 About Me:
 
