@@ -1,7 +1,7 @@
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Namaste, I'm Akshat! 👨‍💻
 
-<img src="assets/coding.gif" width="300" alt="Coding GIF"/>
+
 
 💻 Full Stack Developer | 🐍 Python Enthusiast | 🤖 Aspiring AI Engineer | MERN Stack 
 🔗 Always learning, always building | 💬 Let's collaborate
@@ -12,7 +12,7 @@
   <tr>
     <td>
       <a href="https://readme-typing-svg.herokuapp.com/demo/">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AFFEF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;MERN+Stack+Engineer;Code+is+an+art+of+thinking+clearly.;Tech+is+my+canvas." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AFFEF&center=true&vCenter=true&width=450&lines=EVER+POSITIVE+NEVER+NEGATIVE;Code+is+an+art+of+thinking+clearly.;Tech+is+my+canvas." alt="Typing SVG" />
       </a>
     </td>
   </tr>
