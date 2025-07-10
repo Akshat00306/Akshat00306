@@ -5,17 +5,15 @@
   <img src="https://github.com/nihalmishra01/nihalmishra01/blob/main/giphy.gif?raw=true" alt="Coding Animation" width="80%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Akshat Sankalpura</span></h1>
 <h3 align="center"> Machine Learning|AI & Data Science Enthusiast | Python Developer | MERN Stack Explorer | Problem Solver</h3>
+
+<h1 align="center">Hi , I'm <span style="color:#00bfff">Akshat Sankalpura !</span><p align="centre">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
+</p></h1>
 
 <!-- ✨ Typing Transition -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AEFFF&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Data+Scientist;MERN+Stack+Explorer+%7C+Cloud+Learner;AI+%7C+PowerBI+%7C+Real+World+Problem+Solver" />
-</p>
-
-<!-- 👋 Welcome Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
 </p>
 
 ---
@@ -23,6 +21,7 @@
 ### 💡 About Me
 <div style="display: flex; align-items: center;">
   <div style="flex-shrink: 0; padding-right: 20px;">
+    <p align="center">
     <img src="https://github.com/nihalmishra01/nihalmishra01/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" width="180" alt="About Me Animation" />
   </div>
   <div style="flex: 1;">
