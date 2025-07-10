@@ -1,67 +1,107 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Namaste, I'm Akshat! 👨‍💻
+<!-- 🚀 Akshat Sankalpura | GitHub Profile -->
 
-<img src="assets/Developer.gif" width="300" alt="Developer GIF"/>---
+<!-- 👨‍💻 Professional Banner (Coding Animation GIF) -->
+<p align="center">
+  <img src="https://github.com/nihalmishra01/nihalmishra01/blob/main/giphy.gif?raw=true" alt="Coding Animation" width="80%" />
+</p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AFFEF&center=true&vCenter=true&width=450&lines=EVER+POSITIVE+NEVER+NEGATIVE" alt="Typing SVG" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Akshat Sankalpura</span></h1>
+<h3 align="center"> Machine Learning|AI & Data Science Enthusiast | Python Developer | MERN Stack Explorer | Problem Solver</h3>
 
----
-💻 Full Stack Developer | 🐍 Python Enthusiast | 🤖 Aspiring AI Engineer | MERN Stack  
-🔗 Always learning, always building | 💬 Let's collaborate
+<!-- ✨ Typing Transition -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AEFFF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer+%7C+Data+Scientist;MERN+Stack+Explorer+%7C+Cloud+Learner;AI+%7C++%7C+ML+%7C+BI+%7C+Real+World+Problem+Solver" />
+</p>
 
-## 🧠 About Me:
-
-- 🧑‍💻 Full Stack Developer (MERN) crafting responsive and high-performance web apps  
-- 🔍 Python lover with a flair for clean code and system design  
-- 🤖 Strong interest in AI Engineering and intelligent automation  
-- 🌱 Always expanding my dev toolkit and keeping up with cutting-edge tech  
-- 🤝 Open to exciting collaborations, learning, and building impactful projects  
-- ⚡ Quote: *"Code is the closest thing we have to a superpower."*
+<!-- 👋 Welcome Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack:
-
-### 💻 Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🧩 Frameworks & Libraries:
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎨 Frontend:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Tools & Platforms:
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 💡 About Me
+<div style="display: flex; align-items: center;">
+  <div style="flex-shrink: 0; padding-right: 20px;">
+    <img src="https://github.com/nihalmishra01/nihalmishra01/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" width="180" alt="About Me Animation" />
+  </div>
+  <div style="flex: 1;">
+    <strong>🎓 B.Tech in Computer Engineering | 5th Semester</strong><br>
+    <strong>🤖 Passionate about solving real-world problems with AI/ML and full-stack web development</strong><br>
+    <strong>📈 Skilled in Python, Power BI, MySQL, and MERN Stack</strong><br>
+    <strong>📊 Exploring Generative AI, Data Engineering, MLOps, and Cloud</strong><br>
+    
+  </div>
+</div>
 
 ---
 
-## 🌐 Let's Connect
+### 🛠️ Tech Stack
+<h2 align="center">🚀 My Technology Toolbox</h2>
+<p align="center">💻 Languages • ⚙️ Frameworks • 🧠 ML • 🔧 Tools • ☁️ Cloud</p>
 
-<a href="mailto:akshatsankalpura033@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/akshat-sankalpura-82743023a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/akshatsankalpura" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <!-- Languages -->
+  <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+
+  <!-- Frameworks & Libraries -->
+  <img title="React.js" alt="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img title="Node.js" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img title="Express.js" alt="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+
+  <!-- Machine Learning -->
+  <img title="TensorFlow" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img title="Power BI" alt="Power BI" src="https://img.icons8.com/color/48/000000/power-bi.png" height="40"/>
+
+  <!-- Databases -->
+  <img title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+
+  <!-- Tools & Platforms -->
+  <img title="Firebase" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img title="VS Code" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</p>
+
+
+### 🚀 Featured Project
+
+| 💼 Project | 💡 Description | 🛠 Tech |
+|-----------|----------------|--------|
+| 🧏‍♂️ **U Are Able** | A sign-learning app & device empowering the deaf and mute community. Features real-time sign recognition and multilingual support (English, Gujarati, 0–9 signs). | Python, TensorFlow, Firebase, Dart, Flutter, Android, Web, AI |
 
 ---
 
-> 💡 _“Code is the closest thing we have to a superpower.”_  
-> 📍 Built with ❤️ by Akshat Sankalpura
+
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshat-sankalpura-82743023a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:akshatsankalpura033@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/akshatsankalpura" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshatsankalpura&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  ⭐ _Code. Empower. Create. Impact._  
+  _Thanks for visiting my profile!_ 🚀
+</p>
+
