@@ -10,7 +10,7 @@
 
 <!-- ✨ Typing Transition -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AEFFF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer+%7C+Data+Scientist;MERN+Stack+Explorer+%7C+Cloud+Learner;AI+%7C++%7C+ML+%7C+BI+%7C+Real+World+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AEFFF&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Data+Scientist;MERN+Stack+Explorer+%7C+Cloud+Learner;AI+%7C+PowerBI+%7C+Real+World+Problem+Solver" />
 </p>
 
 <!-- 👋 Welcome Animation -->
