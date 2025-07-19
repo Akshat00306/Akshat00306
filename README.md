@@ -5,7 +5,7 @@
   <img src="https://github.com/nihalmishra01/nihalmishra01/blob/main/giphy.gif?raw=true" alt="Coding Animation" width="80%" />
 </p>
 
-<h3 align="center"> Machine Learning|AI & Data Science Enthusiast | Python Developer | MERN Stack Explorer | Problem Solver</h3>
+<h3 align="center"> Machine Learning|AI & Data Science Enthusiast | Python Developer | Problem Solver</h3>
 
 <h1 align="center">Hi , I'm <span style="color:#00bfff">Akshat Sankalpura !</span><p align="centre">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
@@ -26,7 +26,7 @@
   </div>
   <div style="flex: 1;">
     <strong>🎓 B.Tech in Computer Engineering | 5th Semester</strong><br>
-    <strong>🤖 Passionate about solving real-world problems with AI/ML and full-stack web development</strong><br>
+    <strong>🤖 Passionate about solving real-world problems with AI/ML and python backend development</strong><br>
     <strong>📈 Skilled in Python, Power BI, MySQL, and MERN Stack</strong><br>
     <strong>📊 Exploring Generative AI, Data Engineering, MLOps, and Cloud</strong><br>
     
@@ -47,17 +47,13 @@
   <img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 
   <!-- Frameworks & Libraries -->
-  <img title="React.js" alt="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img title="Node.js" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img title="Express.js" alt="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-
+ 
   <!-- Machine Learning -->
   <img title="TensorFlow" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
   <img title="Power BI" alt="Power BI" src="https://img.icons8.com/color/48/000000/power-bi.png" height="40"/>
 
   <!-- Databases -->
-  <img title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  
   <img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 
   <!-- Tools & Platforms -->
